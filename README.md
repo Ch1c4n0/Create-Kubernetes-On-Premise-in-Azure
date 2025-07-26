@@ -2,6 +2,9 @@
 
 Este repositório contém um guia completo para configurar um cluster Kubernetes em máquinas virtuais (VMs) no Azure, com explicações detalhadas dos comandos em português e inglês.
 
+## Pré-requisito
+- **Você precisa de 3 VMs Linux criadas no Azure** (uma para o master e duas para os workers).
+
 ## Estrutura
 - `docs/comandos-portugues.md`: Explicações dos comandos em português.
 - `docs/comandos-ingles.md`: Explicações dos comandos em inglês.
@@ -20,6 +23,9 @@ Sinta-se à vontade para abrir issues ou pull requests com sugestões, correçõ
 # Create Kubernetes On Premise in Azure
 
 This repository contains a complete guide to set up a Kubernetes cluster on virtual machines (VMs) in Azure, with detailed command explanations in Portuguese and English.
+
+## Prerequisite
+- **You need 3 Linux VMs created in Azure** (one for the master and two for the workers).
 
 ## Structure
 - `docs/comandos-portugues.md`: Command explanations in Portuguese.
